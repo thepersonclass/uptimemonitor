@@ -5,3 +5,4 @@ npm-debug.log
 .DS_Store
 .data
 https
+lib/config.js
